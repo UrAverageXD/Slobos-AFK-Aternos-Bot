@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "waffle-smp.aternos.me",
+    "port": 32837,
     "version": "",
     "try-creative": false
   },
